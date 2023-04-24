@@ -1,0 +1,17 @@
+{
+	"name": "udacitymydf",
+	"properties": {
+		"globalParameters": {
+			"Fiscal_year": {
+				"type": "int",
+				"value": 2021
+			}
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "72aeaa75-50e1-443c-b2b0-c442fcf910b5",
+		"tenantId": "4516ac76-d3e8-402c-bd8d-508ba2f9973d"
+	}
+}
